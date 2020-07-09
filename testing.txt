@@ -1,0 +1,34 @@
+@a = 123433^112 
+@a = 123433.112 
+@aa = 123433 
+IF (@m || @y)
+{
+    @m
+    @m= 1
+    123433.
+    123433^ 
+    CONST
+    IF
+    @a ++ 
+    @a += 5
+    //asasda 
+    {}
+    []
+    <> 
+    <<<
+    >>>
+    < 
+    /*asdasd*asdasd*/
+    > := -- -= (&& ||)
+}
+
+ELSE {
+    @a += 1
+
+}
+
+SWITCH ( @a ) {
+asdasdasd
+ascklascnkl
+While
+}
